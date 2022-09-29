@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dzonik125
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js and Django
+- 💞️ I’m looking to collaborate on many Web Development projects
+- 📫 You can contact me through my LinkedIn account: www.linkedin.com/in/nikola-kolarov
